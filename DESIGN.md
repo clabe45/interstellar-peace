@@ -62,8 +62,8 @@ You will face many decisions and many challenges to your skill.
 The recruiter then asks you a series of questions, including your height, weight, work experiences, etc.
 [Recruiter] Alright, thank you. You can take a seat until Captain Jantor calls you.
 
-You sit down, taking in your surroundings. The room is dark and concealed... well, it had to be; the GIC isn't blind after all. There are several other potential recruitees sitting down--some look poor, while others look wealthy... why would they be helping the SO if they aren't here to make ends meet?
+You sit down, taking in your surroundings. The room is dark and concealed... well, it had to be; the GIC has spies everywhere. There are several other potential recruitees sitting down--some look poor, while others look wealthy... why would they be helping the SO when they already have enough income to survive?
 [A man's voice] {your name; idk how to get that yet}?
 [You] Yes.
-You get up and see a thin, tall man with dark brown hair, dressed in white. He smiles at you, and leads the way into a surprisingly-bright hallway. ...
+You get up and see a thin, tall man with dark brown hair, dressed in white. He smiles at you briskly, and leads the way into a surprisingly-bright hallway. ...
 ```
